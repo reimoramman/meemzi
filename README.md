@@ -9,5 +9,8 @@ Lehel on neli vaadet: 1) Hot
                       3) New
                       4) Profiil
                       5) Kommentaarid
+                      6) Salvestatud
 
-Wireframid: 
+Wireframe: 
+
+![image](https://user-images.githubusercontent.com/78594982/141682525-aede0196-3daf-474a-8d84-e8d2faad56cb.png)
