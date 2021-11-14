@@ -11,8 +11,8 @@ Lehel on neli vaadet:
 2) Trending
 3) New
 4) Profiil
-) Kommentaarid
-) Salvestatud
+5) Kommentaarid
+6) Salvestatud
 
 
 Wireframes:
