@@ -11,6 +11,6 @@ Lehel on neli vaadet: 1) Hot
                       5) Kommentaarid
                       6) Salvestatud
 
-Wireframe: 
+Wireframes: 
 
 ![image](https://user-images.githubusercontent.com/78594982/141682525-aede0196-3daf-474a-8d84-e8d2faad56cb.png)
