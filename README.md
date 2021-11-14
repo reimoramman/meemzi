@@ -17,4 +17,9 @@ Lehel on neli vaadet:
 
 Wireframes: 
 
-![image](https://user-images.githubusercontent.com/78594982/141682525-aede0196-3daf-474a-8d84-e8d2faad56cb.png)
+https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/LoginLeht.png
+https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/HotLeht.png
+https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/TrendingLeht.png
+https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/NewLeht.png
+https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/ProfileLeht.png
+https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/SavedLeht.png
