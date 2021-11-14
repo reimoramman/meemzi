@@ -4,6 +4,7 @@ Autorid: Kaarel Eelmäe ja Reimo Rämman
 
 Esialgne idee: Lehel on sisse ja välja logimine. Tava kasutaja saab teha tavalisi toimutusi: like-ida, kommentaarida, jätta auhind(prize), üleslaadida ja kustutada enda meeme ja GIF-e kerida(scrollida).
 Adminkasutaja saab eemaldada ükskõik, mis postitust, kasutajat, ja kommentaari.
+
 Lehel on neli vaadet: 
 
 1) Hot
