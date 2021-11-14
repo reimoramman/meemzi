@@ -1,8 +1,8 @@
-##Projekt: Meemzi
+Projekt: Meemzi
 
-#Autorid: Kaarel Eelmäe ja Reimo Rämman
+Autorid: Kaarel Eelmäe ja Reimo Rämman
 
-#Esialgne idee: Lehel on sisse ja välja logimine. Tava kasutaja saab teha tavalisi toimutusi: like-ida, kommentaarida, jätta auhind(prize), üleslaadida ja kustutada enda meeme ja GIF-e kerida(scrollida).
+Esialgne idee: Lehel on sisse ja välja logimine. Tava kasutaja saab teha tavalisi toimutusi: like-ida, kommentaarida, jätta auhind(prize), üleslaadida ja kustutada enda meeme ja GIF-e kerida(scrollida).
 Adminkasutaja saab eemaldada ükskõik, mis postitust, kasutajat, ja kommentaari.
 
 Lehel on neli vaadet: 
@@ -15,16 +15,10 @@ Lehel on neli vaadet:
 ) Salvestatud
 
 
-#Wireframes: 
-
-https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/LoginLeht.png
-
-https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/HotLeht.png
-
-https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/TrendingLeht.png
-
-https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/NewLeht.png
-
-https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/ProfileLeht.png
-
-https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/SavedLeht.png
+Wireframes: 
+![LoginLeht](https://user-images.githubusercontent.com/78594982/141683459-7b30490e-af89-4aec-b82f-21bc4aec3842.png)
+![HotLeht](https://user-images.githubusercontent.com/78594982/141683464-a4b7e1e3-3058-476d-a7eb-428a11708222.png)
+![TrendingLeht](https://user-images.githubusercontent.com/78594982/141683467-db4e660a-2842-4d0b-aaa5-77fc2e5d9b26.png)
+![NewLeht](https://user-images.githubusercontent.com/78594982/141683469-1ecaeceb-ce56-406a-9cac-97607769a5a0.png)
+![ProfileLeht](https://user-images.githubusercontent.com/78594982/141683481-c2578664-766d-4ad3-bd15-363a9666106b.png)
+![SavedLeht](https://user-images.githubusercontent.com/78594982/141683484-48e11190-43b3-41bc-9519-be66daea2bee.png)
