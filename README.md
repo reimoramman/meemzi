@@ -18,8 +18,13 @@ Lehel on neli vaadet:
 Wireframes: 
 
 https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/LoginLeht.png
+
 https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/HotLeht.png
+
 https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/TrendingLeht.png
+
 https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/NewLeht.png
+
 https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/ProfileLeht.png
+
 https://github.com/rakenduste-programmeerimine-2021/meemzi/blob/main/WireFramid/SavedLeht.png
